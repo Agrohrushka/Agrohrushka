@@ -118,7 +118,7 @@
 
 <div class="container">
     <h1>Something cool (or not cool)</h1>
-    <img src="https://www.yandex.by/images/search?from=tabbar&img_url=https%3A%2F%2Fstorge.pic2.me%2Fupload%2F663%2F58dcd43711a1d.jpg&lr=213&p=2&pos=8&rpt=simage&text=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8" alt="Логотип проекта" style="width: 200px;">
+    <img src="[https://www.yandex.by/images/search?from=tabbar&img_url=https%3A%2F%2Fstorge.pic2.me%2Fupload%2F663%2F58dcd43711a1d.jpg&lr=213&p=2&pos=8&rpt=simage&text=%D0%BA%D0%B0%D1%80%D1%82%D0%B8%D0%BD%D0%BA%D0%B8" alt="Логотип проекта" style="width: 200px;](https://drive.google.com/file/d/18TK2DN5xSAsB5n_ZQhS3q_3FBjw8FPho/view?usp=sharing)">
     <p>Добро пожаловать на мою страничку! Я рад видеть вас здесь.</p>
     <h2>Всем привет</h2>
     <p>Друзья! Здесь вы можете увидеть несколько проектов по визуализации статистических законов, исследований данных и решений задач регрессии и классификации на базовом уровене.</p>
