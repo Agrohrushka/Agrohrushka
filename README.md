@@ -1,5 +1,4 @@
 <div style="font-size: 500%;">
-# Something cool (or not)
 
 ![Логотип проекта](gitlogo.webp)
 
