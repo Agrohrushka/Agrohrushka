@@ -1,6 +1,6 @@
 # Что-то интересное (или не очень)
 
-![Логотип проекта](https://drive.google.com/file/d/18TK2DN5xSAsB5n_ZQhS3q_3FBjw8FPho/view)
+![Логотип проекта](https://ironfriends.ru/wp-content/uploads/2019/09/08_poisk_kartinki_na_smartfone_v_yandex.jpeg)
 
 Добро пожаловать на мою страницу! Рад видеть вас здесь.
 
