@@ -1,6 +1,6 @@
 # Something cool (or not cool)
 
-![Логотип проекта](https://drive.google.com/file/d/18TK2DN5xSAsB5n_ZQhS3q_3FBjw8FPho/view?usp=sharing)
+![Логотип проекта](https://drive.google.com/file/d/18TK2DN5xSAsB5n_ZQhS3q_3FBjw8FPho/view)
 
 Добро пожаловать на мою страничку! Я рад видеть вас здесь.
 
